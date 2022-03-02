@@ -16,7 +16,6 @@ namespace ProyectoClienteWS
         {
             InitializeComponent();
         }
-
         private void button1_Click(object sender, EventArgs e)
         {
             var cliente = new ServiceReference1.WebService1SoapClient();

@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoClienteWS", "Proyec
 		{6F05CA52-A71A-4C03-AE80-85F579B0F26C} = {6F05CA52-A71A-4C03-AE80-85F579B0F26C}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoWebServiceREST", "ProyectoWebServiceREST\ProyectoWebServiceREST.csproj", "{9AA98D24-EB5A-4448-9F98-28AB54D5E8A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +32,10 @@ Global
 		{BCD4F78A-CB67-4B0A-B45E-09217994F45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCD4F78A-CB67-4B0A-B45E-09217994F45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCD4F78A-CB67-4B0A-B45E-09217994F45F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA98D24-EB5A-4448-9F98-28AB54D5E8A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA98D24-EB5A-4448-9F98-28AB54D5E8A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA98D24-EB5A-4448-9F98-28AB54D5E8A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA98D24-EB5A-4448-9F98-28AB54D5E8A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
